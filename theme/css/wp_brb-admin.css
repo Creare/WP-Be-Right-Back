@@ -1,0 +1,15 @@
+table.wp_brb_table tbody tr td.label {
+	width: 24%;
+	vertical-align: top;
+}
+table.wp_brb_table tbody tr td.label.activate_label {
+	width:10%;
+	background: #fff;
+	border:none;
+}
+table.wp_brb_table.activate_table tbody tr td p {
+	padding: 15px;
+	border:1px solid #E6BDBE;
+	background:#EFD1D1;
+	margin-bottom:0;
+}
